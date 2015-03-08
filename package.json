@@ -1,0 +1,12 @@
+{
+    "name": "houkago-design",
+    "version": "0.0.1",
+    "description": "Managing houkago project design resources",
+    
+    "devDependencies": {
+	"coffee-script": "*",
+	"gulp": "^3.8.8",
+	"gulp-sketch": "*",
+	"gulp-coffee": "*"
+    }
+}
